@@ -3,10 +3,15 @@
 
 :root {
     --green: #85BAA1;
+    --pink: #D0A3BF;
 }
 
 .bg-green {
     background-color: var(--green);
+}
+
+.bg-pink {
+    background-color: var(--pink);
 }
 
 
