@@ -14,8 +14,6 @@
     background-color: var(--pink);
 }
 
-
-
 .navbar {
 }
 
@@ -53,9 +51,9 @@
     color: black;
 }
 
-
-
-
+.btn-primary:focus {
+    background-color: var(--pink);
+}
 
 .font-primary {
     font-family: 'Mulish', sans-serif;
